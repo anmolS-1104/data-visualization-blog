@@ -25,14 +25,6 @@ Tableau is widely considered the gold standard for Business Intelligence (BI) an
 
 To see Tableau in use, we view a clean, professional dual-monitor setup in a modern office (the same clean lines and ambient lighting established in the opening visualization). The left monitor displays the active Tableau Desktop interface, recognizable by its characteristic blue and orange data "pills." A complex map visualization of the USA is being built. The right monitor shows the resulting polished dashboard rendering: a geographical map seamlessly connected to a sales bar chart.
 
-![Image of tableau](tableau.png)
-
-
-
-
-
-
-
 ---
 
 ## 2. Microsoft Power BI: The Corporate Reporting Standard
